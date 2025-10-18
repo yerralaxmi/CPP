@@ -2,9 +2,11 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     // Write C++ code here
     cout << "Hello world"<<endl;
+    cout <<"Hi world"<<endl;
 
     return 0;
 }
