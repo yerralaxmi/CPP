@@ -1,6 +1,6 @@
 //test.cpp
 #include <iostream>
-using namespace std;
+using namespace std; //namespace of std
 
 int main() 
 {
@@ -17,4 +17,4 @@ int main()
     //yoga2: c3
 
     return 0;
-}
+}q
