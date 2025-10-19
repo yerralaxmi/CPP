@@ -12,6 +12,9 @@ int main()
     cout<<"m3"<<endl; //m3
     cout<<"m4"<<endl; //m4
     cout<<"m5"<<endl; //m5
+    //yoga1: c1
+    //yoga1: c2
+    //yoga2: c3
 
     return 0;
 }
