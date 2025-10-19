@@ -1,4 +1,4 @@
-//test.cpp
+//test.cpp main
 #include <iostream>
 using namespace std; //namespace of std
 
