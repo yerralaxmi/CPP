@@ -1,5 +1,4 @@
-//test.cpp yoga2
-//test.cpp main
+//test.cpp
 #include <iostream>
 using namespace std; //namespace of std
 
@@ -19,4 +18,4 @@ int main()
 
     return 0;
 }
-//end yoga2
+//end
